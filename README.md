@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raquel Brasileiro</h1>
 <h3 align="center">A passionate Data Scientist from Brazil, living in Berlin.</h3>
 
-- 🔭 I’m currently working on [GREEN_CITIES_NOW](https://github.com/margaux-go/green_cities_now)
+- 🔭 I’m currently working on [GREEN_CITIES_NOW](https://github.com/margaux-go/green_cities_now), the final project of the Data Science Bootcamp at Le Wagon.
 
 - 🌱 I’m currently learning **Python, Scikit-Learn, Deep Learning, NLP, MLOps**
-
-- 📫 How to reach me **raquel.brasileiro@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/w5cglcltj7](https://flowcv.com/resume/w5cglcltj7)
 
